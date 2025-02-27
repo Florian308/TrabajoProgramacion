@@ -20,3 +20,4 @@ id,nombre,apellidos,fecha_nacimiento,fecha_incorporacion,salario,pais,rol,especi
 19,Patrick,Everett,1984-06-06,2001-05-15,32000.0,España,Jugador,,DEFENSA,2,1.81,73.0,6,150
 20,Richard,Textex,1983-03-03,2001-05-15,27500.0,España,Jugador,,PORTERO,16,1.86,82.0,0,160
 21,Tomas,Richars,1987-08-04,2001-05-15,28400.0,Macedonia,Suplente,DEFENSA,2,1.83,80.0,3,70
+21,Patrick,Tomson,1982-08-14,2001-05-15,26400.0,Macedonia,Jugador,SUPLENTE,23,1.83,85.2,0,140
